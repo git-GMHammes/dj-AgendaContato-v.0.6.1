@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-n6aat8i4h!!(=@)bx6a#0xkd)!5+5tf(bd-u(%h)*q3%^^o03*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['www.habilidade.com', 'localhost', '192.168.0.179']
 
 
 # Application definition
